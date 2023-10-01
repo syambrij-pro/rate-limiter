@@ -8,11 +8,11 @@ import org.junit.jupiter.api.TestInstance.Lifecycle;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
+import test.rate.limiter.algorithm.LazyFillBucketLimiter;
+import test.rate.limiter.algorithm.Limiter;
 import test.rate.limiter.dto.ThrottlingReq;
 import test.rate.limiter.repository.entity.LimitConfiguration;
 import test.rate.limiter.repository.entity.RateLimitPolicy;
-import test.rate.limiter.service.LazyFillBucketLimiter;
-import test.rate.limiter.service.Limiter;
 
 @ExtendWith(SpringExtension.class)
 @TestInstance(Lifecycle.PER_CLASS)

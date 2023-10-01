@@ -1,4 +1,4 @@
-package test.rate.limiter.service;
+package test.rate.limiter.algorithm;
 
 import test.rate.limiter.dto.ThrottlingReq;
 

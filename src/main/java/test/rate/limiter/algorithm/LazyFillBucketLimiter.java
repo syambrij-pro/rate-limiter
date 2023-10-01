@@ -1,4 +1,4 @@
-package test.rate.limiter.service;
+package test.rate.limiter.algorithm;
 
 import java.util.concurrent.atomic.AtomicLong;
 
