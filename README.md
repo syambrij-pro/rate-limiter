@@ -11,7 +11,7 @@ Though I used this project with modified version to submit for a take home test.
    via a post call and then we can call throttling end point to check if that request is eligible to 
    be forwarded/throttled (With HTTP 429 standard).
 
-2. The implementation classes of rate limiter can be simply used in any filter/interceptor as well if needed.
+2. The implementation classes of rate limiter like SlidingLogLimiter, SlidingWindowLimiter ...etc can be simply used in any filter/interceptor as well if needed.
 
 ### Technical details:
 
