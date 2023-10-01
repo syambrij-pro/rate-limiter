@@ -1,9 +1,7 @@
 ### General Details:
 
 I created this project way back in 2019/2020 to learn rate limiting before implementing an actual enterprise project which was very complex.
-
-Though I used this project with modified version to submit for a take home test.
-
+Committed here in 2023 for my reference.
 
 ### Implementation Details:
 
