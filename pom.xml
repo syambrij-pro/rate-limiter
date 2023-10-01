@@ -10,7 +10,7 @@
 		<relativePath />
 		<!-- lookup parent from repository -->
 	</parent>
-	<groupId>test.rate.limiter</groupId>
+	<groupId>rate.limiter</groupId>
 	<artifactId>rate-limiter</artifactId>
 	<version>0.0.1</version>
 	<name>rate-limiter</name>
